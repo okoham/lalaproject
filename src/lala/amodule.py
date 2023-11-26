@@ -1,4 +1,4 @@
-from bmodule import myarray
+from .bmodule import myarray
 
 def add(x, y):
     return x + y
