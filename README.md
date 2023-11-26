@@ -14,6 +14,11 @@ This a just to learn how writing a package works.
 we call that repository __origin__
 
 
+## delete local stuff completely
+
+then: `git clone https://github.com/okoham/lalaproject.git` re-creates that stuff into the folder `lalaproject`
+
+
 ## usual stuff when I do changes
 - `git add <filename>`
 - `git commit -m "great description"`
